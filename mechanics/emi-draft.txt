@@ -1,7 +1,26 @@
-This is emi's idea for the plane loadout.
+Emi's idea{
 
-4 perks:
-  red perk
-  green perk
-  yellow perk
-  blue perk
+My idea was to have 4 perk slots for every loadout, namely a red perk (weapons), a green perk (Hull), a yellow perk (Kill rewards)
+and a blue perk (engine)
+
+my proposed ideas for the perks in these categories are as follows
+
+Green:
+  -Heavy armor : Health increase
+  -Armor plating : % damage reduction from specific sides, for example top and front, top and back, bottom and top, front and       back the player would be able to choose this himself
+  -Flexible wings : Increases turning speed and reduces speed lost on turning
+  -Racer airframe : Higher top speed and stronger throttle speed 
+  
+Blue:
+  -Energy Bank : Higher max energy
+  -Reverse thrust : Increases the throttle change rate and allows you to have backwards thrusting.
+  - ??? (name?) : slightly more potent afterburn (more energy cost aswell, but in an uneven ratio (3 thrust, 2 energy or            something), and when you brake, you gain energy based on how much speed you reduce, this is a significant amount.
+  - x
+  
+Yellow:
+  -Ace Instincts : Enables bars, stronger effects (Higher damage, higher energy regain and (slightly) better turning
+  -Energy Leech : Killing enemies gives energy boosts.
+  - ?? name ? : Enables bars, get rewarded twice the amount of bars for each kill.(may get removed in favor of a nicer idea)
+  - ?? name ? : Enables bars, increases max potential bars, the effect of those will be greater than AI (may get removed in       favor of a nicer idea)
+
+}
