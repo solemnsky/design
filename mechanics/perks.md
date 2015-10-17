@@ -1,31 +1,59 @@
-{{{ Emi's idea 
+# Perks
 
-My idea was to have 4 perk slots for every loadout, namely a red perk (weapons), a green perk (Hull), a yellow perk (Kill rewards) and a blue perk (engine)
+There shall be 4 perk slots: 
 
-my proposed ideas for the perks in these categories are as follows
+  * Red (Weapons) 
+  * Green (Hull) 
+  * Yellow (Kill Reward)
+  * Blue (Engine)
 
-Green:
-  -Heavy armor : Health increase
-  -Armor plating : % damage reduction from specific sides, for example top and front, top and back, bottom and top, front and back the player would be able to choose this himself
-  -Flexible wings : Increases turning speed and reduces speed lost on turning
-  -Racer airframe : Higher top speed and stronger throttle speed 
+Red perks are plane-specific, but the rest are not.
+
+The non-red perks are defined thus:
+
+## Green:
+
+  * Heavy Armor 
+    * Health increase.
+  * Armor Plating 
+    * % damage reduction from specific sides, for example top and front, top and back, bottom and top, front and back the player would be able to choose this himself.
+  * Flexible Wings 
+    * Increases turning speed and reduces speed lost on turning.
+  * Racer airframe 
+    * Higher top speed and stronger throttle speed.
+
+## Yellow:
+
+  * Ace Instincts: 
+    * Enables bars, stronger effects (Higher damage, higher energy regain and (slightly) better turning.
+
+  * Energy Leech: 
+    * Killing enemies gives energy boosts.
+
+  * [name]: 
+    * Enables bars, get rewarded twice the amount of bars for each kill.(may get removed in favor of a nicer idea)
+
+  * [name]: 
+    * Enables bars, increases max potential bars, the effect of those will be greater than AI (may get removed in favor of a nicer idea)
+
   
-Blue:
-  -Energy Bank : Higher max energy
-  -Reverse thrust : Increases the throttle change rate and allows you to have backwards thrusting.
-  - ??? (name?) : slightly more potent afterburn (more energy cost aswell, but in an uneven ratio (3 thrust, 2 energy or something), and when you brake, you gain energy based on how much speed you reduce, this is a significant amount.
-  - ???? 
-  
-Yellow:
-  -Ace Instincts : Enables bars, stronger effects (Higher damage, higher energy regain and (slightly) better turning
-  -Energy Leech : Killing enemies gives energy boosts.
-  - ?? name ? : Enables bars, get rewarded twice the amount of bars for each kill.(may get removed in favor of a nicer idea)
-  - ?? name ? : Enables bars, increases max potential bars, the effect of those will be greater than AI (may get removed in favor of a nicer idea)
+## Blue:
 
+  * Energy Bank: 
+    * Higher max energy.
 
-Planes:
+  * Reverse Thrust: 
+    * Increases the throttle change rate and allows you to have backwards thrusting.
 
-I have alo made a framework as to what the planes will be doing and more or less how, As of right now, i'll be using the same scheme as altitude: Primary fire, secondary fire, and 'item', and afterburn.
+  * [name]: 
+    * Slightly more potent afterburn (more energy cost as well, but in an uneven ratio (3 thrust, 2 energy or something), and when you brake, you gain energy based on how much speed you reduce, this is a significant amount.
+
+  * [name]:
+    * [effect]
+
+# Planes:
+
+I have also conceptualised the weapons, abilities, and consequent roles the different planes will take. I'll be using the same scheme as altitude: Primary fire, secondary fire, 'item', and afterburn.
 
 
 It works as follows:
